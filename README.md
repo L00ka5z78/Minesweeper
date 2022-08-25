@@ -3,7 +3,7 @@ Simple minsweeper game written in JS, css, html
 
 To be honest it is simple game, but it was very challenging to make it work.
 First of all I used many hours to watch some tutorials to understand the logic behind the game.
-And when i was ready, tried to write on my own. I made it, but it was not so easy.
+And when i was ready, tried to write on my own. I made it, but it was not easy.
 
 Things im happy with:
   1. Styling, looks like windows old school game.
